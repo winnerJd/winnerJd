@@ -12,13 +12,18 @@ Database: MongoDB, Firebase, PostgreSQL
 
 Tools & Others: Git, Docker, AWS, Firebase
 
-🌱 Currently Learning:
+🌱 Special topics:
 
 Advanced React concepts & performance optimization
 
 TypeScript for better type safety
 
 Cloud computing & DevOps practices 
+🌱 Currently Learning and building:
+AI,ML,Computer Vision
+Training AI agents
+
+
 
 📫 Let's Connect!
 
